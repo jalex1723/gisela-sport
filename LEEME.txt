@@ -1,0 +1,3 @@
+PROTOTIPO GISELA SPORT
+
+Abra index.html en un navegador. Use el menú lateral y los enlaces para navegar entre las seis interfaces. Es un prototipo académico de baja fidelidad; los datos son demostrativos y los formularios/acciones no guardan información.
